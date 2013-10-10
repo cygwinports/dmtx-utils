@@ -1,4 +1,0 @@
-
-HOMEPAGE="http://www.libdmtx.org/"
-SRC_URI="mirror://sourceforge/libdmtx/${P}.tar.bz2"
-PATCH_URI="0.7.4-autoconf.patch"

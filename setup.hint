@@ -1,7 +1,0 @@
-category: Graphics
-requires: libdmtx0 libMagickCore5
-sdesc: "Data Matrix barcode utilities"
-ldesc: "libdmtx is a software library that enables programs to read and 
-write Data Matrix barcodes of the modern ECC200 variety. This package, 
-dmtx-utils, provides command line utilities that allow scripts and 
-command line users to use libdmtx functionality."

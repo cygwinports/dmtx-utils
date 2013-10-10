@@ -1,0 +1,11 @@
+NAME="dmtx-utils"
+VERSION=0.7.4
+RELEASE=1
+CATEGORY="Graphics"
+SUMMARY="Data Matrix barcode utilities"
+DESCRIPTION="libdmtx is a software library that enables programs to read and
+write Data Matrix barcodes of the modern ECC200 variety. This package provides
+command line utilities that allow scripts to use libdmtx functionality."
+HOMEPAGE="http://www.libdmtx.org/"
+SRC_URI="mirror://sourceforge/libdmtx/${NAME}-${VERSION}.tar.bz2"
+PATCH_URI="0.7.4-autoconf.patch"
