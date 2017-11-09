@@ -1,6 +1,6 @@
 NAME="dmtx-utils"
 VERSION=0.7.4
-RELEASE=2
+RELEASE=3
 CATEGORY="Graphics"
 SUMMARY="Data Matrix barcode utilities"
 DESCRIPTION="libdmtx is a software library that enables programs to read and
